@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Rafsan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=600&lines=Backend+Developer;;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=600&lines=Backend+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
   <br/>
   
   [![Website](https://img.shields.io/badge/Website-4285F4?logo=GoogleChrome&logoColor=white)](https://img.shields.io/badge/Coming-Soon-blue)
